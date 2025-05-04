@@ -1,0 +1,31 @@
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\bin\Debug\ABC_Car Traders.exe
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\bin\Debug\ABC_Car Traders.exe.config
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car Traders.csproj.AssemblyReference.cache
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.Add_CarParts.resources
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.AdminForm.resources
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.CarForm.resources
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.CarMenu.resources
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.CarPartsForm.resources
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.Customer.CarParts_View.resources
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.Car_Details_View.resources
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.customerForm.resources
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.Customer.Cars_View.resources
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.CustomerAccount.resources
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.CustomerRegister.resources
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.Customer_Login.resources
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.Cus_Home.resources
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.DashboardForm.resources
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.Customer.WelcomePage.resources
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.Admin_Login.resources
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.OrderDetailsForm.resources
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.Properties.Resources.resources
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.ReportsForm.resources
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.ResetPassword.resources
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.Forgot_Password.resources
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.SettingsForm.resources
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car Traders.csproj.GenerateResource.cache
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car Traders.csproj.CoreCompileInputs.cache
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car Traders.exe
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car Traders.pdb
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\bin\Debug\ABC_Car Traders.pdb
+C:\Users\Nithu\source\repos\ABC_Car Traders\ABC_Car Traders\obj\Debug\ABC_Car_Traders.CarPartsDetailsView.resources
